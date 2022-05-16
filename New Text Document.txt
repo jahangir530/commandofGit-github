@@ -1,0 +1,53 @@
+•	Local 
+1.	Working directory .
+2.	 Stage
+3.	Local Ripository .
+•	Remote
+Open start lets go :::
+Git command >>
+New folderCreate: mkdir (folder name) enter.
+Folder open: cd (folderName) enter
+Create file: touch (fileName) enter
+Initialaized: git init
+Other links add: clone (link) enter
+File add : (1) git add (full fileName) ,
+(2) git add -A enter
+(3) git add . (dot)
+(4) git add –all
+(5) git add * (star)
+1, git add  *.txt
+  	 2, git add *
+Back /reset: git reset 
+Current file : pwd
+Commit: git commit -m “message  anything” (with string “”)
+Full back /reset: git reset HEAD~
+Deleted File back: git reset –hard
+
+ 
+Full Summary: git status
+ File Remove  : 
+	(1), git rm (file name)
+(2),, After changed : git rm (file name) -f rm ‘ file name’ ( with string)
+(3), git rm cached (file name)
+(4), git -r (folder name)
+
+Branch : git branch
+	git branch (branch name)
+branch check / open: git checkout (branch name)
+branch to other branch merge: git merge (branch name) -m “messages anything”(with string)
+After commit ,,,,,
+Git to github/Remot:  git push origin (Branch name)
+After change in github: git fetch
+(After use fetch need to ,,,git merge)
+Github to git after change : git pull
+
+
+
+
+
+
+    
+
+
+
+
